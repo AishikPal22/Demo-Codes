@@ -1,0 +1,13 @@
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.AssemblyReference.cache
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CopyComplete
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+C:\Users\AP\source\repos\AishikPal22\Demo-Codes\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb
